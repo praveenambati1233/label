@@ -1,3 +1,3 @@
 docs: docs/*
-example: examples/**/*
+example: examples/*
 repository: packages/repository/*
