@@ -6,5 +6,9 @@ examples:
 - changed-files:
   - any-glob-to-any-file: examples/*
 
+package:
+- changed-files:
+  - any-glob-to-any-file: packages/repository/*
+
 feature:
  - head-branch: ['^feature', 'feature']
