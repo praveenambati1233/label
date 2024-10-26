@@ -12,3 +12,6 @@ package:
 
 feature:
  - head-branch: ['^feature', 'feature']
+
+bufix:
+ - head-branch: ['^bugfix', 'bufix'] 
