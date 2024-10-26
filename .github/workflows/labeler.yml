@@ -12,7 +12,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
       name: checkout the code
-    - uses: actions/labeler@v2
+    - uses: actions/labeler@v5.0.0
       name: label action
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
