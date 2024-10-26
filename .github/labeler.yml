@@ -2,5 +2,9 @@ Documentation:
 - changed-files:
   - any-glob-to-any-file: docs/*
 
+examples:
+- changed-files:
+  - any-glob-to-any-file: examples/*
+
 feature:
  - head-branch: ['^feature', 'feature']
