@@ -12,7 +12,7 @@ package:
 
 submodule:
 - changed-files:
-  - any-glob-to-any-file: Hibernate/*
+  - any-glob-to-any-file: Hibernate
 
 feature:
  - head-branch: ['^feature', 'feature']
