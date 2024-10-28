@@ -10,6 +10,10 @@ package:
 - changed-files:
   - any-glob-to-any-file: packages/repository/*
 
+submodule:
+- changed-files:
+  - any-glob-to-any-file: Hibernate/**
+
 feature:
  - head-branch: ['^feature', 'feature']
 
