@@ -1,3 +1,6 @@
 [submodule "Hibernate"]
 	path = Hibernate
 	url = https://github.com/praveenambati1233/Hibernate
+[submodule "Docker_Kubernetes"]
+	path = Docker_Kubernetes
+	url = https://github.com/praveenambati1233/Docker_Kubernetes
